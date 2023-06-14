@@ -1,0 +1,32 @@
+db.mealType.insert([
+    {
+        "mealtype_id": 1,
+        "mealtype": "Breakfast",
+        "content": "Start your day with exclusive breakfast options",
+        "meal_image": "https://i.ibb.co/FVhSTWK/breakfast.jpg"
+    },
+    {
+        "mealtype_id": 2,
+        "mealtype": "Lunch",
+        "content": "With exclusive Lunch options",
+        "meal_image": "https://i.ibb.co/8rPxkWP/lunch.jpg"
+    },
+    {
+        "mealtype_id": 3,
+        "mealtype": "Dinner",
+        "content": "End your day with exclusive Dinner options",
+        "meal_image": "https://i.ibb.co/XjzPqYv/dinner.jpg"
+    },
+    {
+        "mealtype_id": 4,
+        "mealtype": "Snacks",
+        "content": "Enjoy your day with snacks options",
+        "meal_image": "https://i.ibb.co/wchCHfb/snacks.jpg"
+    },
+    {
+        "mealtype_id": 5,
+        "mealtype": "Drinks",
+        "content": "Enjoy your day with drinks options",
+        "meal_image": "https://i.ibb.co/YR0S6fV/drinks.jpg"
+    }
+])

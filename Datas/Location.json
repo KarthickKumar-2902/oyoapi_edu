@@ -1,0 +1,345 @@
+db.location.insert(
+    [
+      {
+        "location_id": 1,
+        "location_name": "T-Nagar",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India"
+      },
+      {
+        "location_id": 2,
+        "location_name": "Maylapur",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India"
+      },
+      {
+        "location_id": 3,
+        "location_name": "Porur",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India"
+      },
+      {
+        "location_id":4,
+        "loaction_name": "Koyambedu",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India",
+      },
+      {
+        "location_id":5,
+        "loaction_name": "Central Railways Station",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India",
+      },
+      {
+        "location_id":6,
+        "loaction_name": "R.C Puram",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India",
+      },
+      {
+        "location_id":7,
+        "loaction_name": "Anna Nagar",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India",
+      },
+      {
+        "location_id":8,
+        "loaction_name": "Velacheri",
+        "state_id": 1,
+        "state": "Chennai",
+        "country_name": "India",
+      },
+      //Bengalore
+      {
+        "location_id": 11,
+        "location_name": "Korangla",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India"
+      },
+      {
+        "location_id": 12,
+        "location_name": "M.G Road",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India"
+      },
+      {
+        "location_id": 13,
+        "location_name": "Indranagar",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India"
+      },
+      {
+        "location_id": 14,
+        "loaction_name": "Balaji Nagar",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India",
+      },
+      {
+        "location_id": 15,
+        "loaction_name": "Jayanagar",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India",
+      },
+      {
+        "location_id": 16,
+        "loaction_name": "Madiwala",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India",
+      },
+      {
+        "location_id": 17,
+        "loaction_name": "HSR Layout",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India",
+      },
+      {
+        "location_id": 18,
+        "loaction_name": "Marathahalli",
+        "state_id": 2,
+        "state": "Bengalore",
+        "country_name": "India",
+      },
+      //Delhi
+      {
+        "location_id": 21,
+        "location_name": "Janakpuri",
+        "state_id": 1,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 22,
+        "location_name": "Karol Bhah",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 23,
+        "location_name": "Dwarka",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 24,
+        "loaction_name": "Mahipalpur",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India",
+      },
+      {
+        "location_id": 25,
+        "location_name": "Paharganji",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India"
+      },
+      {
+        "location_id": 26,
+        "loaction_name": "Rajput Nagar",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India",
+      },
+      {
+        "location_id": 27,
+        "loaction_name": "Saket",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India",
+      },
+      {
+        "location_id": 28,
+        "loaction_name": "Rohini",
+        "state_id": 3,
+        "state": "Delhi",
+        "country_name": "India",
+      },
+      //Hydrabad
+      {
+        "location_id": 31,
+        "location_name": "Ameerpet",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India"
+      },
+      {
+        "location_id": 32,
+        "location_name": "LB Nagar",
+        "state_id": 3,
+        "state": "Hydrabad",
+        "country_name": "India"
+      },
+      {
+        "location_id": 33,
+        "location_name": "Gachibowli",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India"
+      },
+      {
+        "location_id": 34,
+        "loaction_name": "Kukatpally",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India",
+      },
+      {
+        "location_id": 35,
+        "loaction_name": "Chanda Nagar",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India",
+      },
+      {
+        "location_id": 36,
+        "loaction_name": "Madhapur",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India",
+      },
+      {
+        "location_id": 37,
+        "loaction_name": "Begumpet",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India",
+      },
+      {
+        "location_id": 38,
+        "loaction_name": "Abids",
+        "state_id": 4,
+        "state": "Hydrabad",
+        "country_name": "India",
+      },
+      //Kolkatta
+      {
+        "location_id": 41,
+        "location_name": "Chinar Park",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India"
+      },
+      {
+        "location_id": 42,
+        "location_name": "Park Street",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India"
+      },
+      {
+        "location_id": 43,
+        "location_name": "Near Acropolis Mall",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India"
+      },
+      {
+        "location_id": 44,
+        "loaction_name": "Esplanade Metro Station",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India",
+      },
+      {
+        "location_id": 45,
+        "loaction_name": "Barasat",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India",
+      },
+      {
+        "location_id": 46,
+        "loaction_name": "New Town",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India",
+      },
+      {
+        "location_id": 47,
+        "loaction_name": "Salt Lake City",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India",
+      },
+      {
+        "location_id": 48,
+        "loaction_name": "Kolkata International Airport",
+        "state_id": 5,
+        "state": "Kolkatta",
+        "country_name": "India",
+      },
+      //Mumbai
+      {
+        "location_id": 51,
+        "location_name": "Andheri East",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India"
+      },
+      {
+        "location_id": 52,
+        "location_name": "Andheri West",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India"
+      },
+      {
+        "location_id": 53,
+        "location_name": "Thane",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India"
+      },
+      {
+        "location_id": 54,
+        "loaction_name": "Saki Naka",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India",
+      },
+      {
+        "location_id": 55,
+        "loaction_name": "Bandra",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India",
+      },
+      {
+        "location_id": 56,
+        "loaction_name": "Colaba",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India",
+      },
+      {
+        "location_id": 57,
+        "loaction_name": "Bandra Kurla Complex",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India",
+      },
+      {
+        "location_id": 58,
+        "loaction_name": "Navi Mumbai",
+        "state_id": 6,
+        "state": "Mumbai",
+        "country_name": "India",
+      },
+    ]
+)
