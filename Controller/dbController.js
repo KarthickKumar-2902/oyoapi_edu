@@ -1,7 +1,7 @@
 let mongo = require('mongodb');
 let {mongoClient}= require('mongodb');
-/* let mongoUrl= "mongodb+srv://karthickoyoProject:eXWfREpVReCZirQV@cluster0.7ptnlgw.mongodb.net/?retryWrites=true&w=majority";*/
-let mongoUrl= "mongodb://127.0.0.1:27017";
+let mongoUrl= "mongodb+srv://karthickoyoProject:eXWfREpVReCZirQV@cluster0.7ptnlgw.mongodb.net/?retryWrites=true&w=majority";
+/*let mongoUrl= "mongodb://127.0.0.1:27017";*/
 
 let client = new mongo.MongoClient(mongoUrl);
 
